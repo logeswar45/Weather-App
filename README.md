@@ -33,5 +33,6 @@ Invalid city name (e.g., "city not found"). API limit exceeded (if the API provi
 
 Allowing the user to input the city name or location dynamically. Adding the option to display weather data in multiple units (e.g., Celsius, Fahrenheit, or Kelvin). Displaying a 7-day weather forecast instead of just current weather data. Creating a simple graphical user interface (GUI) using JavaFX or Swing for more interactive user experiences. Conclusion: The Java application that consumes a public REST API and displays data is a common and essential task in modern software development. By creating a program that handles HTTP requests, parses JSON responses, and displays the data in a user-friendly format, you are developing essential skills for interacting with web services and working with external data sources. This task will help you understand the importance of APIs in modern software applications and will give you practical experience in working with HTTP protocols and JSON parsing in Java.
 
-**OUTPUT**: For example, the structured output on the console might look like this: Weather Information for London:
+#**OUTPUT**: For example, the structured output on the console might look like this: Weather Information for London:
+
 Temperature: 20°C Humidity: 82% Pressure: 1012 hPa Weather: Clear sky Wind Speed: 5.1 m/s This output allows the user to understand the weather conditions clearly. You can also format this in a more sophisticated way, depending on the needs, such as generating an HTML page for the user interface.
